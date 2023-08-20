@@ -67,22 +67,3 @@ border-radius: 20%;
     background: rgb(238, 237, 234);   
  
 }
-.form-item{
-    position: relative;
-}
-.form-item .fas{
-    position: absolute;
-    top: 25px;
-    left: 15px;
-}
-.btn{
-    text-align: center;
-    width: 95%;
-    background: #a2757a;
-    border-radius: 20px;
-    padding: 10px 6px;
-    color: #f8faf0;
-    cursor: pointer;
-    margin: 10px;
-    
-} 
